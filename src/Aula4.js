@@ -1,5 +1,5 @@
 function teste(){
-    let x = 10
+    let x = 8.5
     let y = 3.45
     let z = x * y
     console.log("resultado " + z)
